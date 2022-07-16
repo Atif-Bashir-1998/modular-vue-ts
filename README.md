@@ -1,5 +1,7 @@
 # modular-vue-ts
 
+This is a boiler plate project which provides a vue project in modular folder structure.
+
 ## Project setup
 ```
 npm install
